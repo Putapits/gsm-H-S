@@ -1,0 +1,28 @@
+# Logs
+logs
+*.log
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# PHP specific
+vendor/
+composer.lock
+.env
+.env.local
+.env.production
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Sensitive configuration files
+.htaccess
